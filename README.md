@@ -1,16 +1,75 @@
-### Hi there 👋
+ <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
 
-<!--
-**fathurohmansf/fathurohmansf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Fathur, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
+
+###
+
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
+ 
+</div>
+
+###
+
+<h2 align="left" style="color:white;" >🌐 My socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/a_fathurohman_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://tlgrm.in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://fathurrhm909@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+  <a href="https://zaap.bio/" target="_blank" rel="noreferrer">
+  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
+  </a>
+  
+</div>
+
+<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+ 
+ 
+</div>
+
+###
+
+<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
+<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+ 
